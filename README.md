@@ -11,7 +11,7 @@
 
 <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=multyfora&show_icons=true&locale=en&layout=compact" alt="multyfora" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=multyfora&theme=dracula&show_icons=true&locale=en&layout=compact" alt="multyfora" /></p>
  
 <p align="right" > <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Multyfora&theme=dark&hide_border=true&border_radius=20&date_format=n%2Fj%5B%2FY%5D&background=90%2CFB8C0276%2C00000000" alt="GitHub Streak" /></a></p>
 </div>
